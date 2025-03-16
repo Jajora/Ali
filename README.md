@@ -35,7 +35,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="https://i.imgur.com/YOUR_UPLOADED_IMAGE.png" alt="Midea Logo">
+        <img src="https://i.imgur.com/YOUR_NEW_IMAGE.png" alt="Midea Logo">
         <h1>Ali Hosny</h1>
         <p>Senior Accounts Payable & General Ledger Accountant</p>
         <p><strong>Phone:</strong> +20 01098887551</p>
